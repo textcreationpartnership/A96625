@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's changeling or, The time servers laid open in their colours, being a clear discovery of the new cheat of the thing called the good old cause. By one that hopes to see better times.</title>
+            <author>Willis, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96625</idno>
+            <idno type="STC">Wing W2805</idno>
+            <idno type="STC">Thomason E988_16</idno>
+            <idno type="STC">ESTC R208112</idno>
+            <idno type="EEBO-CITATION">99867103</idno>
+            <idno type="PROQUEST">99867103</idno>
+            <idno type="VID">119393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119393)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's changeling or, The time servers laid open in their colours, being a clear discovery of the new cheat of the thing called the good old cause. By one that hopes to see better times.</title>
+                  <author>Willis, Humphrey.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [3]: H. W. [i.e. Humphrey Willis].</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "June 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119393:1"/>
+            <p>
+               <hi>ENGLAND'S</hi> CHANGELING OR, The Time Servers Laid open in their Colours, BEING A clear Diſcovery of the New Cheat of the <hi>Thing</hi> called the Good Old Cauſe.</p>
+            <p>By one that hopes to ſee better <hi>TIMES.</hi>
+            </p>
+            <p>Printed in the year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:119393:2"/>
+            <pb facs="tcp:119393:2"/>
+            <head>To all true Engliſh-men.</head>
+            <opener>
+               <salute>Dear Country-men,</salute>
+            </opener>
+            <lg>
+               <l>TO let you know that one as truely now</l>
+               <l>Forgets himſelf, as he remembers you,</l>
+               <l>I here preſent you with I know not what,</l>
+               <l>To do you ſervice.—</l>
+               <l>What though ſome rotten Vpſtart ſwell, what then?</l>
+               <l>So you take't friendly, what care I for them,</l>
+               <l>But would you know this Sir that's here intended,</l>
+               <l>His titles what, and whence he is deſcended;</l>
+               <l>Then know they call this Gent. ſprung from a Fig,</l>
+               <l>One for the good Old Cauſe, Times Whinligig:</l>
+               <l>Titles ſufficient to make him a flaunting,</l>
+               <l>And now time-Gallant (tho' true worth be wanting)</l>
+               <l>He comes to kiſſe your hands, and hope that you</l>
+               <l>Will give him Quarter for a night or two,</l>
+               <l>And afterwards if ſo you think it fit,</l>
+               <l>To burne him, do, or tear him every bit,</l>
+               <l>Wiſhing poor <hi>Englands</hi> Tyrants all ſo us'd,</l>
+               <l>That have ſo many honeſt men abus'd;</l>
+               <l>And that is all, and that is ſcarce enough,</l>
+               <l>For them or this dreſt up in ſuch a ſtuffe.</l>
+            </lg>
+            <closer>
+               <signed>Yours, and onely yours, <hi>H. W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>To <hi>Englands</hi> Tormentors.</head>
+            <lg>
+               <l>HAve at you Sirs, 'tis but a word or two,</l>
+               <l>And that's enough, if not too much for you;</l>
+               <l>You that pretend Religion, and why?</l>
+               <l>To make Religion cloak your villany;</l>
+               <l>You that pretend the publike good, but how?</l>
+               <l>Iuſt as the Pigs that whine to ſuck the Sow;</l>
+               <l>You men-devouring beaſts, you ne'r-be-good,</l>
+               <l>Will nothing pleaſe you but our all hearts-blood?</l>
+               <l>No wonder that ſweet <hi>England</hi> ſeems a hell,</l>
+               <l>When you ſit Iudges in our <hi>Iſrael:</hi>
+               </l>
+               <l>What e're you think, we think you mad or worſe,</l>
+               <l>D'e hope to fatter ſtill byth' peoples curſe?</l>
+               <l>Foxes indeed fare beſt when wiſht a rope,</l>
+               <l>But you'l unkennel'd be e're long we hope;</l>
+               <l>And then (what then) 'twill be ſuch ſport, that O,</l>
+               <l>
+                  <hi>Acteons</hi> Dogs ne're us'd their Maſter ſo.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:119393:3"/>
+            <head>
+               <hi>ENGLANDS</hi> CHANGLING OR, The Time Servers, &amp;c.</head>
+            <lg>
+               <l>WHat Age is this? What times are now?</l>
+               <l>Vice ſtates it ſo in each mans brow,</l>
+               <l>with thouſands waiting on her,</l>
+               <l>Cloth'd all in ſilkes and Purple brave,</l>
+               <l>As if no honeſt man, but knave,</l>
+               <l>ſhould ere againe have honour.</l>
+            </lg>
+            <lg>
+               <l>Whilſt vertue (who's ſo heavenly ſweet)</l>
+               <l>That bleſt are Kings if kiſſe her feet,</l>
+               <l>goes ſlighted up and down;</l>
+               <l>She that laments poor <hi>Englands</hi> woes,</l>
+               <l>See, ſee, how naked there ſhe goes,</l>
+               <l>Kikt at by every Clowne.</l>
+            </lg>
+            <lg>
+               <l>An honeſt man! a thing moſt rare,</l>
+               <l>Or Gentleman that's D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bonaire,</l>
+               <l>to live hath much adoe;</l>
+               <l>Then what one ſay'd, I now avow,</l>
+               <l>Tis hard not to write Satyrs now,</l>
+               <l>I think you think ſo too.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:119393:3"/>
+               <l>A Gentleman good Sir, alack,</l>
+               <l>What's that? a laſt years Almanack,</l>
+               <l>I thought ſo by his look,</l>
+               <l>A fooliſh, uſeleſs, worthleſs thing,</l>
+               <l>A caſt-by now juſt as the King,</l>
+               <l>whom Upſtarts cannot brook.</l>
+            </lg>
+            <lg>
+               <l>No, no, we have a people now,</l>
+               <l>Blew-apron-blades, men that know how,</l>
+               <l>all Nations fill with wonder,</l>
+               <l>Who'r skill'd in State-affaires ſo well,</l>
+               <l>Each man's another Machivell,</l>
+               <l>to keep the Gentry under.</l>
+            </lg>
+            <lg>
+               <l>Religion's made a Tennis-Ball,</l>
+               <l>For every fool to play wîthall,</l>
+               <l>both which we have ſo many,</l>
+               <l>That we diſputed have ſo long,</l>
+               <l>'Bout which is right, and which is wrong,</l>
+               <l>till we have hardly any.</l>
+            </lg>
+            <lg>
+               <l>I now have liv'd to ſee the day,</l>
+               <l>Wherein a Fig-man beares ſuch ſway,</l>
+               <l>that Knights dare ſcarce ſit by him;</l>
+               <l>Yea, I have liv'd to ſee the hour,</l>
+               <l>In which a Clothier hath ſuch power,</l>
+               <l>that Lords are glad to buy him.</l>
+            </lg>
+            <lg>
+               <l>Thus do the froth of all the earth,</l>
+               <l>A ſpawn ſprung from a dungill birth,</l>
+               <l>now Prince it in our Land,</l>
+               <l>A people come the Lord knowes how,</l>
+               <l>Both Fame and nameleſs till juſt now,</l>
+               <l>muſt every one command.</l>
+            </lg>
+            <lg>
+               <l>Kind hearted ſouls they are indeed,</l>
+               <l>O that we had more of the breed,</l>
+               <l>which take ſuch mickle paine;</l>
+               <pb n="6" facs="tcp:119393:4"/>
+               <l> Spending their ſpirits day and hight,</l>
+               <l>That they the Nation may requite,</l>
+               <l>by turning all again.</l>
+            </lg>
+            <lg>
+               <l>Ah me! what times, ſad times are theſe,</l>
+               <l>Wherein ſuch tadpole ſlaves with eaſe,</l>
+               <l>mount up and live reſpected?</l>
+               <l>When they that have done ſervice more</l>
+               <l>Then ten of them, yea ten ſcore,</l>
+               <l>go ſlighted and neglected.</l>
+            </lg>
+            <lg>
+               <l>Witneſs thoſe many Gallant men,</l>
+               <l>That fought it out ſo ſtoutly, when</l>
+               <l>The State was brought moſt lo,</l>
+               <l>Which now for their Arrcares do lye,</l>
+               <l>But not one groat can they come by,</l>
+               <l>though ſome a begging go.</l>
+            </lg>
+            <lg>
+               <l>Yet ſuch as have no ſervice done,</l>
+               <l>Nor ever did on hazzard run,</l>
+               <l>theſe warrs I dare be ſworne,</l>
+               <l>But lay for Offices in waite,</l>
+               <l>Aiming to get a great Eſtate,</l>
+               <l>get thouſands in a morne.</l>
+            </lg>
+            <lg>
+               <l>The honeſt ſouls which live by love,</l>
+               <l>Now ſee all this but dare not move,</l>
+               <l>the cauſe, becauſe not Maſter;</l>
+               <l>For they to prove the City lover,</l>
+               <l>So long the ſtaff delivered over,</l>
+               <l>that now they cannot baſt her.</l>
+            </lg>
+            <lg>
+               <l>Then what is man to truſt upon,</l>
+               <l>Who is ſo fond, ſo fickly gone,</l>
+               <l>ſo craz'd in's apprehenſion;</l>
+               <l>He's never well untill he be,</l>
+               <l>Above his fellowes, thought ſtraight he</l>
+               <l>downfall beyond demenſion.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:119393:4"/>
+               <l>And down good God pluck all ſuch down,</l>
+               <l>That ſeem for Chriſt, but ſeek their own,</l>
+               <l>where ere they come or go;</l>
+               <l>But peace, no more, the reſt is meant,</l>
+               <l>O that this long-long Parliament,</l>
+               <l>would rid us of our wo.</l>
+            </lg>
+            <lg>
+               <l>But Parliaments have done amiſs,</l>
+               <l>Themſelves ere now, pray may not this?</l>
+               <l>then who'l caſt anchor there;</l>
+               <l>Alas can men do what they ſhould,</l>
+               <l>Nay, would they do it if they could,</l>
+               <l>a ſecond War I fear.</l>
+            </lg>
+            <lg>
+               <l>A ſecond War, how can that be?</l>
+               <l>Hath not the Parliament and we,</l>
+               <l>brought all we wiſht to paſſe?</l>
+               <l>So long as <hi>Monk</hi> and we agree</l>
+               <l>And all ovr Enemies forc't to flee,</l>
+               <l>who feares a War's an aſſe.</l>
+            </lg>
+            <lg>
+               <l>But why ſhould we be ſo ſecure?</l>
+               <l>Sith God is juſt h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e'l ne're endure,</l>
+               <l>things manag'd as you ſee;</l>
+               <l>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide and oppreſſion cry aloud,</l>
+               <l>Then cry to Heaven, to Heaven for bloud,</l>
+               <l>and they ſhrewd ſticklers be.</l>
+            </lg>
+            <lg>
+               <l>What was't that beat the firſt alarms,</l>
+               <l>In Engliſh hearts to take up armes,</l>
+               <l>I menn ith' well affected?</l>
+               <l>Was't not our Chu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch to pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifie,</l>
+               <l>From all the dregs of Popery,</l>
+               <l>which had her ſo infected.</l>
+            </lg>
+            <lg>
+               <l>And this was well, and bravely done,</l>
+               <l>Had we gone on as we begun,</l>
+               <l>'t had been a gallant Cure,</l>
+               <pb n="8" facs="tcp:119393:5"/>
+               <l> But for to thruſt out one Church ſo,</l>
+               <l>And ſuffer thouſand worſe to grow,</l>
+               <l>this purge is not ſo pure.</l>
+            </lg>
+            <lg>
+               <l>And what was next the moving cauſe,</l>
+               <l>That made us ruſh even in the jawes,</l>
+               <l>of death, with ſuch delight?</l>
+               <l>Was't not left arbitrary Power,</l>
+               <l>Should State and liberty devoure,</l>
+               <l>to ſtave off if we might.</l>
+            </lg>
+            <lg>
+               <l>Sure this was it, and this was all,</l>
+               <l>Theſe were the main, the principall,</l>
+               <l>that made the honeſt fight;</l>
+               <l>And now that this accompliſht is,</l>
+               <l>Beyond what we could think or wiſh,</l>
+               <l>you ſweetly them requite.</l>
+            </lg>
+            <lg>
+               <l>If we ſometimes had from our Prince</l>
+               <l>A laſh or two, what have we ſince?</l>
+               <l>indeed a world of favour;</l>
+               <l>Juſt as from <hi>Rehoboam,</hi> when</l>
+               <l>One finger ſhould be heavier then</l>
+               <l>the weight of all his Father.</l>
+            </lg>
+            <lg>
+               <l>How often promis'd (but ſtill fool'd)</l>
+               <l>Were we, the Aegyptian taskers ſhould</l>
+               <l>be puniſht for oppreſſion?</l>
+               <l>But whilſt the Sheep hath any wool,</l>
+               <l>Our Shepherds will be never full,</l>
+               <l>teares make but poor impreſſion.</l>
+            </lg>
+            <lg>
+               <l>Then ſince that man's grown ſuch a beaſt,</l>
+               <l>That <hi>Homo homini lupus eſt,</hi>
+               </l>
+               <l>bleſt they who are unborn:</l>
+               <l>How ere let's ſigh to God bove,</l>
+               <l>One ſigh may chance to get his love,</l>
+               <l>though men our teares do ſcorne.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
